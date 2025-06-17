@@ -1,0 +1,992 @@
+[
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Breakdown/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Breakdown.BreakdownDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Breakdown/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.DeleteBreakdown.DeleteBreakdownCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Breakdown/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateStatus.UpdateBreakdownStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Breakdown/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateBreakdown.UpdateBreakdownCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Breakdown/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Breakdowns.Commands.CreateBreakdown.CreateBreakdownCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Breakdown.BreakdownIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.BreakdownController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Breakdown/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Breakdown.BreakdownDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Category/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Category.CategoryDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Category/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.DeleteCategory.DeleteCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Category/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateStatus.UpdateCategoryStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Category/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateCategory.UpdateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Category/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.CreateCategory.CreateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Category.CategoryIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.CategoryController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Category/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Category.CategoryDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Group/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Group.GroupDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Group/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Groups.Commands.DeleteGroup.DeleteGroupCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Group/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Groups.Commands.UpdateStatus.UpdateGroupStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Group/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Groups.Commands.UpdateGroup.UpdateGroupCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Group/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Groups.Commands.CreateGroup.CreateGroupCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Group.GroupIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.GroupController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Group/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Group.GroupDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Tool/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Tool/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.DeleteTool.DeleteToolCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Tool/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.UpdateStatusTool.UpdateToolStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Tool/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.UpdateTool.UpdateToolCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Tool/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.CreateTool.CreateToolCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Tool/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/ToolType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolTypeDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/ToolType/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.ToolTypes.Commands.DeleteToolType.DeleteToolTypeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/ToolType/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.UpdateStatusToolType.UpdateToolTypeStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "Update",
+    "RelativePath": "api/v1/ToolType/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Tools.Commands.UpdateToolType.UpdateToolTypeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "Create",
+    "RelativePath": "api/v1/ToolType/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.ToolTypes.Commands.CreateToolType.CreateToolTypeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolTypeIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.ToolTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/ToolType/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Tool.ToolTypeDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/Visit/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Visit.VisitDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Visit/{id}/delete",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.DeleteVisit.DeleteVisitCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Visit/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateStatus.UpdateVisitStatusCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Visit/{id}/update",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Categories.Commands.UpdateVisit.UpdateVisitCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Visit/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CMMSAPP.Application.Features.Visits.Commands.CreateVisit.CreateVisitCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[CMMSAPP.Application.Common.Dtos.Visit.VisitIdDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CMMSAPP.API.Controllers.v1.VisitController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Visit/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CMMSAPP.Common.Api.ApiResult\u00601[[System.Collections.Generic.List\u00601[[CMMSAPP.Application.Common.Dtos.Visit.VisitDto, CMMSAPP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

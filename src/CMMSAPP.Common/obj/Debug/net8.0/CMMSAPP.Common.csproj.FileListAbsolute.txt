@@ -1,0 +1,39 @@
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.deps.json
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.pdb
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.AssemblyReference.cache
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfoInputs.cache
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfo.cs
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.CoreCompileInputs.cache
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\refint\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.pdb
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\ref\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\Project\CMMSAPP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.sourcelink.json
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.deps.json
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.pdb
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.AssemblyReference.cache
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfoInputs.cache
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfo.cs
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.CoreCompileInputs.cache
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.sourcelink.json
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\refint\CMMSAPP.Common.dll
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.pdb
+C:\Users\Zagros\Desktop\PS.APP\CMMSAPP\src\CMMSAPP.Common\obj\Debug\net8.0\ref\CMMSAPP.Common.dll
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.deps.json
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.dll
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\bin\Debug\net8.0\CMMSAPP.Common.pdb
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.AssemblyReference.cache
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfoInputs.cache
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.AssemblyInfo.cs
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.csproj.CoreCompileInputs.cache
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.sourcelink.json
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.dll
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\refint\CMMSAPP.Common.dll
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\CMMSAPP.Common.pdb
+D:\1. Asrin Pakzad\PS.APP\src\CMMSAPP.Common\obj\Debug\net8.0\ref\CMMSAPP.Common.dll

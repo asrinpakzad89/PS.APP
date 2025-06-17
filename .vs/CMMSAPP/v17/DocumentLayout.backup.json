@@ -1,0 +1,914 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1. Asrin Pakzad\\PS.APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\tool\\tooldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\tool\\tooldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.domain\\aggregatesmodel\\toolaggregate\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|solutionrelative:src\\cmmsapp.domain\\aggregatesmodel\\toolaggregate\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\queries\\gettoolbyidquery\\gettoolbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\queries\\gettoolbyidquery\\gettoolbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\updatetool\\updatetoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\updatetool\\updatetoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.domain\\enums\\toolgroupenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|solutionrelative:src\\cmmsapp.domain\\enums\\toolgroupenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.api\\controllers\\v1\\tooltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|solutionrelative:src\\cmmsapp.api\\controllers\\v1\\tooltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\breakdowns\\queries\\getallbreakdownquery\\getallbreakdownquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\breakdowns\\queries\\getallbreakdownquery\\getallbreakdownquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\visit\\visitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\visit\\visitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\tooltype\\tooltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\tooltype\\tooltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\group\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\group\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\breakdown\\breakdowndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\breakdown\\breakdowndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\mapping\\tooltypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\mapping\\tooltypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\mapping\\toolprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\mapping\\toolprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.domain\\aggregatesmodel\\tooltypeaggregate\\tooltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985BF693-EF2E-4F60-86AC-7DF1C4C5EBFA}|src\\CMMSAPP.Domain\\CMMSAPP.Domain.csproj|solutionrelative:src\\cmmsapp.domain\\aggregatesmodel\\tooltypeaggregate\\tooltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatetooltype\\updatetooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.infrastructure\\data\\entityconfigurations\\tooltypeconfigurations\\tooltypeentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|solutionrelative:src\\cmmsapp.infrastructure\\data\\entityconfigurations\\tooltypeconfigurations\\tooltypeentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.infrastructure\\data\\entityconfigurations\\toolconfigurations\\toolentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|solutionrelative:src\\cmmsapp.infrastructure\\data\\entityconfigurations\\toolconfigurations\\toolentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|solutionrelative:src\\cmmsapp.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.api\\controllers\\v1\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E2BDF-3A97-414C-9714-C3353E3B6953}|src\\CMMSAPP.API\\CMMSAPP.API.csproj|solutionrelative:src\\cmmsapp.api\\controllers\\v1\\toolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\createtooltype\\createtooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\createtool\\createtoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\createtool\\createtoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\createtool\\createtoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\createtool\\createtoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\gettooltypebyidquery\\gettooltypebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\queries\\gettoolbyidquery\\gettoolbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\queries\\gettoolbyidquery\\gettoolbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequeryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\queries\\getalltooltypequery\\getalltooltypequeryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\queries\\getalltoolquery\\getalltoolqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\updatestatustooltype\\updatetooltypestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tooltypes\\commands\\deletetooltype\\deletetooltypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\deletetool\\deletetoolcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\dtos\\tooltype\\tooltypeiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\dtos\\tooltype\\tooltypeiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\common\\mapping\\breakdownprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\common\\mapping\\breakdownprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.application\\features\\tools\\commands\\updatetool\\updatetoolcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC115489-FF28-4401-AE6D-2840ED025E71}|src\\CMMSAPP.Application\\CMMSAPP.Application.csproj|solutionrelative:src\\cmmsapp.application\\features\\tools\\commands\\updatetool\\updatetoolcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|d:\\1. asrin pakzad\\ps.app\\src\\cmmsapp.infrastructure\\migrations\\20250617072040_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E18711C-C8BD-46B6-BFCD-F589B4A0BF75}|src\\CMMSAPP.Infrastructure\\CMMSAPP.Infrastructure.csproj|solutionrelative:src\\cmmsapp.infrastructure\\migrations\\20250617072040_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateToolCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateToolTypeCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:14:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllToolQuery.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQuery.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQuery.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQuery.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:42:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetToolByIdQuery.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQuery.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQuery.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:48:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToolDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Tool\\ToolDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\Tool\\ToolDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Tool\\ToolDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\Tool\\ToolDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:29:15.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\AggregatesModel\\ToolAggregate\\Tool.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Domain\\AggregatesModel\\ToolAggregate\\Tool.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\AggregatesModel\\ToolAggregate\\Tool.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Domain\\AggregatesModel\\ToolAggregate\\Tool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:14:52.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToolGroupEnum.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\Enums\\ToolGroupEnum.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Domain\\Enums\\ToolGroupEnum.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\Enums\\ToolGroupEnum.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Domain\\Enums\\ToolGroupEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:27:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteToolTypeCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:58:56.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Group\\GroupDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\Group\\GroupDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Group\\GroupDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\Group\\GroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:58:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteToolTypeCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:58:20.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToolTypeController.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\Controllers\\v1\\ToolTypeController.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.API\\Controllers\\v1\\ToolTypeController.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\Controllers\\v1\\ToolTypeController.cs",
+              "RelativeToolTip": "src\\CMMSAPP.API\\Controllers\\v1\\ToolTypeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAnwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:05:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllBreakdownQuery.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Breakdowns\\Queries\\GetAllBreakdownQuery\\GetAllBreakdownQuery.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Breakdowns\\Queries\\GetAllBreakdownQuery\\GetAllBreakdownQuery.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Breakdowns\\Queries\\GetAllBreakdownQuery\\GetAllBreakdownQuery.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Breakdowns\\Queries\\GetAllBreakdownQuery\\GetAllBreakdownQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:58:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisitDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Visit\\VisitDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\Visit\\VisitDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Visit\\VisitDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\Visit\\VisitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:58:59.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:58:41.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BreakdownDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Breakdown\\BreakdownDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\Breakdown\\BreakdownDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\Breakdown\\BreakdownDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\Breakdown\\BreakdownDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:58:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToolTypeDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:28:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToolTypeProfile.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\ToolTypeProfile.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Mapping\\ToolTypeProfile.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\ToolTypeProfile.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Mapping\\ToolTypeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:57:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToolProfile.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\ToolProfile.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Mapping\\ToolProfile.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\ToolProfile.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Mapping\\ToolProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:57:09.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ToolType.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\AggregatesModel\\ToolTypeAggregate\\ToolType.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Domain\\AggregatesModel\\ToolTypeAggregate\\ToolType.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Domain\\AggregatesModel\\ToolTypeAggregate\\ToolType.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Domain\\AggregatesModel\\ToolTypeAggregate\\ToolType.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:28:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllToolTypeQuery.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQuery.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQuery.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQuery.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:42:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateToolTypeCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA8wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:15:02.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateToolTypeCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateToolType\\UpdateToolTypeCommandValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:16:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllToolTypeQueryHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:43:55.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250617091805_update4.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Infrastructure\\Migrations\\20250617091805_update4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:18:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateToolTypeCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:55:29.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateToolTypeCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:55:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ToolTypeEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolTypeConfigurations\\ToolTypeEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolTypeConfigurations\\ToolTypeEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolTypeConfigurations\\ToolTypeEntityTypeConfiguration.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolTypeConfigurations\\ToolTypeEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:15:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ToolEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolConfigurations\\ToolEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolConfigurations\\ToolEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolConfigurations\\ToolEntityTypeConfiguration.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Infrastructure\\Data\\EntityConfigurations\\ToolConfigurations\\ToolEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:15:13.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ToolController.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\Controllers\\v1\\ToolController.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.API\\Controllers\\v1\\ToolController.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\Controllers\\v1\\ToolController.cs",
+              "RelativeToolTip": "src\\CMMSAPP.API\\Controllers\\v1\\ToolController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:21:47.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.API\\GlobalUsings.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.API\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\CMMSAPP.API\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:06:32.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateToolCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:51:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateToolTypeCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\CreateToolType\\CreateToolTypeCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:55:55.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateToolCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\CreateTool\\CreateToolCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:19:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetToolTypeByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:48:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetToolTypeByIdQuery.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQuery.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQuery.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:47:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetToolTypeByIdQueryValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetToolTypeByIdQuery\\GetToolTypeByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:48:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\GlobalUsings.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\GlobalUsings.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:13:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetToolByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQueryHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetToolByIdQuery\\GetToolByIdQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:49:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllToolQueryValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:45:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllToolQueryHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Queries\\GetAllToolQuery\\GetAllToolQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:44:29.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllToolTypeQueryValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Queries\\GetAllToolTypeQuery\\GetAllToolTypeQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:44:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateToolTypeStatusCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:11:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateToolTypeStatusCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:13:33.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateToolTypeStatusCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\UpdateStatusToolType\\UpdateToolTypeStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:12:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteToolTypeCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\ToolTypes\\Commands\\DeleteToolType\\DeleteToolTypeCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:59:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeleteToolCommandValidator.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandValidator.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandValidator.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:08:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteToolCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:59:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteToolCommand.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommand.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommand.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommand.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\DeleteTool\\DeleteToolCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:59:34.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ToolTypeIdDto.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeIdDto.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeIdDto.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeIdDto.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Dtos\\ToolType\\ToolTypeIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:28:27.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BreakdownProfile.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\BreakdownProfile.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Common\\Mapping\\BreakdownProfile.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Common\\Mapping\\BreakdownProfile.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Common\\Mapping\\BreakdownProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:31:32.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateToolCommandHandler.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommandHandler.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommandHandler.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Application\\Features\\Tools\\Commands\\UpdateTool\\UpdateToolCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:22:13.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250617072040_update2.cs",
+              "DocumentMoniker": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Migrations\\20250617072040_update2.cs",
+              "RelativeDocumentMoniker": "src\\CMMSAPP.Infrastructure\\Migrations\\20250617072040_update2.cs",
+              "ToolTip": "D:\\1. Asrin Pakzad\\PS.APP\\src\\CMMSAPP.Infrastructure\\Migrations\\20250617072040_update2.cs",
+              "RelativeToolTip": "src\\CMMSAPP.Infrastructure\\Migrations\\20250617072040_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:20:40.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
